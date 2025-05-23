@@ -14,14 +14,13 @@ Este programa ha sido diseñado para brindarte **tranquilidad, previsión y resp
 
 ### 🏞️ ¿Qué es el Programa de Necesidad Futura?
 El programa consiste en adquirir hoy un servicio funerario integral para el futuro, con facilidades de pago, asesoría personalizada y cobertura garantizada.
-
 """)
 
 # Video institucional embebido
 st.subheader("🎬 Conoce el programa")
 components.html(
     """
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/1aWZFw0ccHE" 
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/t_0rXaXg3Zs" 
     title="Video institucional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     """,
@@ -31,7 +30,7 @@ components.html(
 # Imagen de referencia
 st.subheader("📸 Camposanto & Jardines")
 st.image(
-    "https://www.parquedelrecuerdo.pe/wp-content/uploads/2021/09/header-inicio.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1PzgRIYgLOI5u8LL3NdgEVVKexYb9viiU6g&s",
     caption="Vista panorámica del Camposanto Parque del Recuerdo",
     use_container_width=True
 )
